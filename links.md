@@ -37,7 +37,7 @@ Single source of truth cho mọi pointer tới content/code/platform liên quan
 | HQ orchestration | https://github.com/tech-naucode/hq | Routing rules + quality gates |
 | Brand kit | https://github.com/tech-naucode/brand | Voice when communicating LIFT externally |
 | Compliance | https://github.com/tech-naucode/compliance | License template, IP assignment for LIFT licensees |
-| IP commercialization | https://github.com/tech-naucode/ipcom | Licensing pipeline cho LIFT-as-IP |
+| IP commercialization | https://github.com/tech-naucode/ip-com | Licensing pipeline cho LIFT-as-IP |
 
 ## Related NAUCode operating companies
 

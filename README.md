@@ -32,7 +32,7 @@ breaks when AI generates near-infinite effort.
         └─── content ─────┘                 │
             evolution                       │
                                             │
-                                       ipcom + compliance
+                                       ip-com + compliance
                                        (when LIFT v1.0
                                         ready to license)
 ```

@@ -107,7 +107,7 @@ audience nội bộ + academic, không phải buyer audience.
 | Internal NAUCode team | Workshop + this repo | ✓ Done |
 | Academic peers (VinUniversity MBA, DSR community) | Workshop deck + DSR primer (`may26ws/dsr.html`) | ✓ Started |
 | Practitioners (consultants, project managers) | mkt-branch thought leadership content | TODO |
-| Potential licensees | Direct presentation + case study (via ipcom) | TODO |
+| Potential licensees | Direct presentation + case study (via ip-com) | TODO |
 | Academic publication | Peer-reviewed venue (TBD) | TODO |
 
 ## Lessons applied to next method development

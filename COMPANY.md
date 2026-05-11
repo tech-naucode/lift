@@ -82,4 +82,4 @@ lift-pitch và các artifact bên ngoài.
 ## License model
 
 Xem [`license-models.md`](license-models.md). Mặc định: proprietary, tham vấn
-`ipcom` cho licensing options.
+`ip-com` cho licensing options.
