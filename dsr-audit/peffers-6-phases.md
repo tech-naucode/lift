@@ -98,7 +98,7 @@ audience nội bộ + academic, không phải buyer audience.
 **Output so far:**
 - `2ngnhan/may26ws` — workshop materials
 - This repo — methodology spec
-- Pending: paper, talk, blog post series (mkt-brand will handle)
+- Pending: paper, talk, blog post series (mkt-branch will handle)
 
 **Communication audience strategy:**
 
@@ -106,7 +106,7 @@ audience nội bộ + academic, không phải buyer audience.
 |---|---|---|
 | Internal NAUCode team | Workshop + this repo | ✓ Done |
 | Academic peers (VinUniversity MBA, DSR community) | Workshop deck + DSR primer (`may26ws/dsr.html`) | ✓ Started |
-| Practitioners (consultants, project managers) | mkt-brand thought leadership content | TODO |
+| Practitioners (consultants, project managers) | mkt-branch thought leadership content | TODO |
 | Potential licensees | Direct presentation + case study (via ipcom) | TODO |
 | Academic publication | Peer-reviewed venue (TBD) | TODO |
 

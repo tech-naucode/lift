@@ -44,7 +44,7 @@ Single source of truth cho mọi pointer tới content/code/platform liên quan
 | Company | Reference reason |
 |---|---|
 | `gtm-au` | Engineering Certainty positioning — LIFT là một implementation của certainty thinking |
-| `mkt-brand` | Thought leadership content về LIFT (blog, talks) |
+| `mkt-branch` | Thought leadership content về LIFT (blog, talks) |
 | `sales-pipeline` | LIFT-anchored proposals — pricing per CU |
 | `knowledge` | Lessons captured từ LIFT applications |
 
